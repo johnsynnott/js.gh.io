@@ -1,0 +1,4 @@
+baseurl = "https://johnsynnott.github.io/"
+title = "John Synnott"
+languageCode = "en-us"
+theme = "detox"
