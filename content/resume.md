@@ -15,14 +15,14 @@ title = "Resume"
 Software developer with two years of application and proof of concept development
 
 ### Languages
-Familiar with Java and Python
+Most expirienced with Java and Python
 
-Knows enough to be dangerous with SQL and JavaScript with jQuery
+Some expirience with SQL and JavaScript with jQuery
 
 ### Experience
 #### Software developer
 ##### Hewlette Packard / Hewlette Packard Enterprise - June 2014 to Present
-Led a team on the development of an application to monitor and collect data from fibre channel switches, and provide a REST API for other services to retrieve that data.
+Led a team on the development of an application to monitor and collect data from fibre channel switches by using the REST APIs that they offer. The application also provides a uniform rest interface for all of the switches that it interacts with allowing multiple different switches to be controlled with the same code. 
 
 Rebuilt a script from the ground up to assist new users with the first time configuration of a switch.
 
@@ -47,7 +47,7 @@ Link: http://dl.acm.org/citation.cfm?id=2633655
 We continued the development of a iOS mobile application for deployment in WPI Biology laboratories to serve as an alternative to traditionally lab conventions. Special attention was made to delivering a well-designed and well-documented application to ensure the ease of expanding the application in the future.
 
 #### Citizen Science: Nematodes
-Worked with the Biology department to create a web application to allow regular people to contribute to a real scientific project.
+Worked with the Biology department to create a web application in perl to allow regular people to contribute to a real scientific project.
 
 ### Education
 #### Worcester Polytechnic Institute
