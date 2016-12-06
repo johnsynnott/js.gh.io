@@ -4,13 +4,6 @@ title = "Resume"
 
 +++
 
-# level one
-## level two
-### level three
-#### level four
-##### level five
-###### level six
-
 ### Summary
 Software developer with two years of application and proof of concept development
 
