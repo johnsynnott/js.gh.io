@@ -1,6 +1,6 @@
 +++
 date = "2016-12-06T18:09:09-05:00"
-title = "Finding the Best Climate In The United States)"
+title = "Finding the Best Climate (In The United States)"
 
 +++
 
