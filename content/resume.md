@@ -4,6 +4,10 @@ title = "Resume"
 
 +++
 
+### Contact
+
+Not included on github.
+
 ### Summary
 Software developer with two years of application and proof of concept development
 
