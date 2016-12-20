@@ -11,10 +11,10 @@ Not included on github.
 ### Summary
 Software developer with two years of application and proof of concept development
 
-### Languages
-Most expirienced with Java and Python
+### Skills and Tools
+Programming languages: Most expirienced with Java and Python. Some expirience with SQL.
 
-Some expirience with SQL and JavaScript with jQuery
+Operating systems: Daily use of Windows 7/10 and elementary OS (Ubuntu based distro). Occasional use of macOS
 
 ### Experience
 #### Software developer
