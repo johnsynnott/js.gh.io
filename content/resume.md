@@ -39,6 +39,5 @@ Link: http://dl.acm.org/citation.cfm?id=2633655
 
 
 ### Education
-#### Worcester Polytechnic Institute
-Worcester, Massachusetts
-Bachelor of Sciences in Computer Science
+Worcester Polytechnic Institute (WPI), Worcester, MA
+Bachelor of Sciences in Computer Science, May 2014
